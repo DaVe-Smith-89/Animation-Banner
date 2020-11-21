@@ -28,3 +28,7 @@ rm -rf remove.txt
 rm -rf cowsay.txt
 rm -rf bannername.txt
 
+figlet Done!!! | lolcat -a
+sleep 2
+exit
+
