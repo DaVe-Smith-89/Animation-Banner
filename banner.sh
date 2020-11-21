@@ -28,8 +28,8 @@ echo
 while true; do
     read -p "Are you wan´t to make banner with annimation?  ( y /n )  " yn
     case $yn in
-        [Yy]* ) cd && cd Animation-Banner && bash animation.sh ; break;;
-        [Nn]* ) cd && cd Animation-Banner && bash evileye.sh ;;
+        [Yy]* ) bash animation.sh ; break;;
+        [Nn]* ) bash evileye.sh ;;
         * ) echo "Please answer   yes    or    no.";;
     esac
 done
