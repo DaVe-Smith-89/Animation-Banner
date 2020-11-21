@@ -22,11 +22,11 @@ sleep 2
 clear
 figlet Banner | lolcat -a
 figlet Master | lolcat -a
-echo -e $b"                                       By Dave Smith"
-echo -e $lb"                             owner of CYBER WORRIORS"
+echo -e $b"                                   By Dave Smith"
+echo -e $lb"                         owner of CYBER WORRIORS"
 echo
 while true; do
-    read -p "Are you wan´t to make banner with annimation?  ( y /n )  " yn
+    read -p "Are you wan´t to make banner with annimation?( y /n )" yn
     case $yn in
         [Yy]* ) bash animation.sh ; break;;
         [Nn]* ) bash evileye.sh ;;
