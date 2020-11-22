@@ -19,6 +19,7 @@ read b
 echo "clear" >remove.txt
 echo "cowsay -f eyes "$b" | lolcat" >cowsay.txt
 echo "figlet "$a" | lolcat" >bannername.txt
+echo "PS1='\$ '" >mark.txt
 rm -rf /data/data/com.termux/files/usr/etc/bash.bashrc
 touch bash.bashrc
 cp bash.bashrc /data/data/com.termux/files/usr/etc/
