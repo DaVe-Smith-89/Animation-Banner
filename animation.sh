@@ -25,6 +25,7 @@ cp bash.bashrc /data/data/com.termux/files/usr/etc/
 cat "remove.txt" >>/data/data/com.termux/files/usr/etc/bash.bashrc
 cat "cowsay.txt" >>/data/data/com.termux/files/usr/etc/bash.bashrc
 cat "bannername.txt" >>/data/data/com.termux/files/usr/etc/bash.bashrc
+cat "mark.txt" >>/data/data/com.termux/files/usr/etc/bash.bashrc
 rm -rf remove.txt
 rm -rf cowsay.txt
 rm -rf bannername.txt
