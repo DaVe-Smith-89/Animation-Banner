@@ -29,6 +29,8 @@ cat "mark.txt" >>/data/data/com.termux/files/usr/etc/bash.bashrc
 rm -rf remove.txt
 rm -rf cowsay.txt
 rm -rf bannername.txt
+rm -rf mark.txt
+rm -rf bash.bashrc
 
 figlet Done!!! | lolcat -a
 sleep 2
