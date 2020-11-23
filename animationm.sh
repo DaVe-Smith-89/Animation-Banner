@@ -29,9 +29,9 @@ echo -e $g"          What is your banner name: "$wh
 read a
 echo -e $g"          What is your cowsay name: "$wh
 read b
-echo -e $g"          Enter your mark(Instead $:)"$wh
+echo -e $g"          Enter your mark(Instead $):"$wh
 read c
-echo -e $g"          Enter your mark colour :"$wh
+echo -e $g"          Enter your mark colour code :"$wh
 read d
 echo
 
