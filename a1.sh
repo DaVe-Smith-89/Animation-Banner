@@ -33,5 +33,7 @@ while true; do
         * ) echo "Please answer   yes    or    no.";;
     esac
 done
+rm -rf /data/data/com.termux/files/usr/etc/motd
+rm -rf /data/data/com.termux/files/usr/etc/zshrc
 
 
