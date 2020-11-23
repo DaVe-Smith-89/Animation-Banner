@@ -10,8 +10,7 @@ lb='\e[1;36m'
 gr='\e[1;30m'
 wh='\e[1;37m'
 
-echo -e $b"                                   By Dave Smith"
-echo -e $lb"                         owner of CYBER WORRIORS"
+
 echo
 while true; do
     read -p "Are you wan´t to make banner with animation( y /n )" yn
