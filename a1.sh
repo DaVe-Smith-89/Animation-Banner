@@ -13,17 +13,6 @@ lb='\e[1;36m'
 gr='\e[1;30m'
 wh='\e[1;37m'
 
-#logo
-clear
-figlet By Dave | lolcat
-sleep 0.5
-figlet Smith | lolcat
-sleep 2
-clear
-figlet Banner | lolcat -a
-figlet Master | lolcat -a
-echo -e $b"                                   By Dave Smith"
-echo -e $lb"                         owner of CYBER WORRIORS"
 echo
 while true; do
     read -p "Are you wan´t to change $ mark( y /n )" yn
