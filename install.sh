@@ -12,4 +12,4 @@ figlet CYBER | lolcat -a
 figlet worriors | lolcat -a
 pkg install nano -y
 clear
-bash a1.sh
+bash a.sh
