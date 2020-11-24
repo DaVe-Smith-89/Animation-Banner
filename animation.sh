@@ -31,7 +31,11 @@ rm -rf cowsay.txt
 rm -rf bannername.txt
 rm -rf mark.txt
 rm -rf bash.bashrc
-
+cd
+cd ..
+cd usr
+cd etc
+cat bash.bashrc >>/data/data/com.termux/files/usr/etc/zshrc
 figlet Done!!! | lolcat -a
 sleep 2
 exit
