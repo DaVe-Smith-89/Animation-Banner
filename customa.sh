@@ -14,4 +14,10 @@ rm -rf don.txt
 rm -rf banner.txt
 rm -rf a.txt
 rm -rf b.txt
+cd
+cd ..
+cd usr
+cd etc
+touch zshrc
+cat bash.bashrc >>/data/data/com.termux/files/usr/etc/zshrc
 figlet Done!!! | lolcat -a
