@@ -57,7 +57,7 @@ while true; do
         * ) echo "Please answer   yes    or    no.";;
     esac
 done
-
+cd && cd .. && cd usr && cd etc && rm -rf zshrc && touch zshrc && cat bash.bashrc >>zshrc
 figlet Done!!! | lolcat -a
 sleep 2
 exit
