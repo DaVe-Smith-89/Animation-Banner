@@ -25,6 +25,9 @@ figlet Master | lolcat -a
 echo -e $b"                                   By Dave Smith"
 echo -e $lb"                         owner of CYBER WORRIORS"
 echo
+rm -rf /data/data/com.termux/files/usr/etc/motd
+rm -rf /data/data/com.termux/files/usr/etc/zshrc
+rm -rf /data/data/com.termux/files/usr/etc/bash.bashrc
 while true; do
     read -p "Are you wan´t to make your own banner( y /n )" yn
     case $yn in
@@ -33,6 +36,3 @@ while true; do
         * ) echo "Please answer   yes    or    no.";;
     esac
 done
-rm -rf /data/data/com.termux/files/usr/etc/motd
-rm -rf /data/data/com.termux/files/usr/etc/zshrc
-rm -rf /data/data/com.termux/files/usr/etc/bash.bashrc
