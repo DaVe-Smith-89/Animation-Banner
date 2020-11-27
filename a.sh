@@ -35,4 +35,4 @@ while true; do
 done
 rm -rf /data/data/com.termux/files/usr/etc/motd
 rm -rf /data/data/com.termux/files/usr/etc/zshrc
-
+rm -rf /data/data/com.termux/files/usr/etc/bash.bashrc
