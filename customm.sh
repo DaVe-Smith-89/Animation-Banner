@@ -1,4 +1,6 @@
-
+chsh -s bash
+rm -rf ~/.oh-my-zsh
+rm -r ~/.termux
 rm -rf /data/data/com.termux/files/usr/etc/bash.bashrc
 #colour code
 
