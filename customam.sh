@@ -1,4 +1,7 @@
 rm -rf /data/data/com.termux/files/usr/etc/bash.bashrc
+chsh -s bash
+rm -rf ~/.oh-my-zsh
+rm -r ~/.termux
 #colour code
 
 r='\e[1;31m'
