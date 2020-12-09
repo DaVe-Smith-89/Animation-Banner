@@ -13,7 +13,7 @@ wh='\e[1;37m'
 
 echo
 while true; do
-    read -p "Are you wan´t to make banner with animation( y /n )" yn
+    read -p "Do you wan´t to make banner with animation( y /n )" yn
     case $yn in
         [Yy]* ) bash animationm.sh ; break;;
         [Nn]* ) bash evileyem.sh ;;
