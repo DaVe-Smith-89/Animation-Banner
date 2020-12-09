@@ -29,7 +29,7 @@ rm -rf /data/data/com.termux/files/usr/etc/motd
 rm -rf /data/data/com.termux/files/usr/etc/zshrc
 rm -rf /data/data/com.termux/files/usr/etc/bash.bashrc
 while true; do
-    read -p "Are you wan´t to make your own banner( y /n )" yn
+    read -p "Do you wan´t to make your own banner( y /n )" yn
     case $yn in
         [Yy]* ) bash a4.sh ; break;;
         [Nn]* ) bash a1.sh ;;
