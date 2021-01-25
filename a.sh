@@ -1,4 +1,4 @@
-
+xdg-open https://youtu.be/T7x0rfxH3n8
 #coded by Dave Smith
 #owner of CYBER WORRIORS
 
