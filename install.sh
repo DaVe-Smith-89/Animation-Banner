@@ -11,5 +11,3 @@ gem install lolcat
 figlet CYBER | lolcat -a
 figlet worriors | lolcat -a
 pkg install nano -y
-clear
-bash a.sh
