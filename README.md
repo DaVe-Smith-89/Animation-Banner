@@ -1,5 +1,6 @@
 # Animation-Banner
 
+A banner Tool for Termux users.
 
 ### Coded By Dave Smith (Owner of SL Cyber Warrriors)
 
