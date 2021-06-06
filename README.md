@@ -6,11 +6,15 @@
 
 >`pkg install git -y`
 
+>`pkg install python -y`
+
 >`git clone https://github.com/DaVe-Smith-89/Animation-Banner`
 
 >`cd Animation-Banner`
 
 >`bash install.sh`
+
+>`python Adv-Banner.py`
 
 <hr colour="Red" size="10">
 <h3>JOIN US :<h3/>
