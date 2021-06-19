@@ -18,8 +18,6 @@ A banner Tool for Termux users.
 
 >`cd Animation-Banner`
 
->`bash install.sh`
-
 >`python Adv-Banner.py`
 
 <h3>JOIN US :<h3/>
